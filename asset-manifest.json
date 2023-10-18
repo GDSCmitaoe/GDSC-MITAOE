@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GDSC-MITAOE/static/css/main.a7d3af43.css",
-    "main.js": "/GDSC-MITAOE/static/js/main.ca5fcdc7.js",
+    "main.js": "/GDSC-MITAOE/static/js/main.d78ec5f8.js",
     "static/js/787.cda612ba.chunk.js": "/GDSC-MITAOE/static/js/787.cda612ba.chunk.js",
     "static/media/Mayank.png": "/GDSC-MITAOE/static/media/Mayank.1d40da90e236f45bc310.png",
     "static/media/Namrata.png": "/GDSC-MITAOE/static/media/Namrata.cf2f78d722f4c27be449.png",
@@ -27,11 +27,11 @@
     "static/media/AtharvV.jpg": "/GDSC-MITAOE/static/media/AtharvV.b5f5c4b287a405759df8.jpg",
     "index.html": "/GDSC-MITAOE/index.html",
     "main.a7d3af43.css.map": "/GDSC-MITAOE/static/css/main.a7d3af43.css.map",
-    "main.ca5fcdc7.js.map": "/GDSC-MITAOE/static/js/main.ca5fcdc7.js.map",
+    "main.d78ec5f8.js.map": "/GDSC-MITAOE/static/js/main.d78ec5f8.js.map",
     "787.cda612ba.chunk.js.map": "/GDSC-MITAOE/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7d3af43.css",
-    "static/js/main.ca5fcdc7.js"
+    "static/js/main.d78ec5f8.js"
   ]
 }
