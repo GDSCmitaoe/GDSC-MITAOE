@@ -11,7 +11,6 @@ const Navbar = () => {
         {name:"Workshops"},
         {name:"Team"},
         {name:"Community"},
-        {name:"GCSJ Leaderboard"}
     ];
     let [open, setOpen] =useState(false);
 
