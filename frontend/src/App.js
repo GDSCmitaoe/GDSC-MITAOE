@@ -1,25 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Landing from './pages/Landing';
+import Leaderboard from './pages/Leaderboard';
+import Navbar from './layouts/Navbar';
+import Cursor from "./components/Cursor";
+import PastTeam from "./components/Landing/PastTeam";
+import Footer from "./layouts/Footer";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App font-sans">
+            <Navbar />
+            <Router>
+                <Routes>
+                    <Route exact path="/" element={<Landing />} />
+                    <Route exact path="/leaderboard" element={<Leaderboard />} />
+                    <Route exact path="/pastteam" element={<PastTeam />} />
+                </Routes>
+            </Router>
+
+        </div>
+    );
 }
 
 export default App;
