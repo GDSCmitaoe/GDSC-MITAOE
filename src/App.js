@@ -19,7 +19,6 @@ function App() {
                     <Route exact path="/pastteam" element={<PastTeam />} />
                 </Routes>
             </Router>
-
         </div>
     );
 }
