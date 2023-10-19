@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/logo-bg.png" height="100" />
+<img src="src/assets/img/DSC_MITAOE_Logo.png" height="100" />
 </p>
 
 <h1 align="center">Official Website of GDSC MITAOE</h1>
