@@ -24,7 +24,7 @@ const Leaderboard = () => {
     };
 
     return (
-        <div className="px-24 max-md:px-4 text-left bg-gray-100 flex flex-col justify-center">
+        <div className="px-24 max-md:px-4 text-left w-screen bg-gray-100 flex flex-col justify-center">
             <h2 className={"font-bold my-8 text-xl"}>Leaderboard</h2>
             <div className="mb-4 flex justify-between">
                 <input

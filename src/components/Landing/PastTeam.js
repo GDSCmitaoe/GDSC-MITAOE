@@ -1,8 +1,5 @@
 import React from 'react';
 import Footer from "../../layouts/Footer";
-import '../../assets/css/styles.css'
-import '../../assets/css/responsive.css'
-import '../../assets/css/bootstrap.min.css'
 import PratikKale from '../../assets/img/team/PratikKale.jpg'
 import JayvantDevare from '../../assets/img/team/Jayvant.png'
 import AdityaBirangal from '../../assets/img/team/AdityaBirangal.jpg'
